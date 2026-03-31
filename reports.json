@@ -1,0 +1,22 @@
+[
+  {"id": 1,  "location": "Sector 7",    "text": "Massive fire broke out in residential building, many people trapped, urgent help needed"},
+  {"id": 2,  "location": "Sector 12",   "text": "Minor water logging on road, no injuries reported, traffic slow"},
+  {"id": 3,  "location": "Sector 3",    "text": "Building collapsed, multiple people injured, send rescue team immediately"},
+  {"id": 4,  "location": "Sector 19",   "text": "Flood water entering houses, families stranded, urgent rescue required"},
+  {"id": 5,  "location": "Sector 5",    "text": "Smoke observed from factory, possible fire, emergency response needed"},
+  {"id": 6,  "location": "Sector 9",    "text": "Traffic jam near market area, no emergency"},
+  {"id": 7,  "location": "Sector 2",    "text": "Severe flood, people stranded on rooftops, urgent boat rescue required"},
+  {"id": 8,  "location": "Sector 15",   "text": "Small electrical fire in shop, already controlled by locals"},
+  {"id": 9,  "location": "Sector 11",   "text": "Person seriously injured in road accident, ambulance required urgently"},
+  {"id": 10, "location": "Sector 4",    "text": "River water level rising, risk of flood in nearby villages"},
+  {"id": 11, "location": "Sector 8",    "text": "Gas leak reported in apartment complex, evacuate immediately, urgent"},
+  {"id": 12, "location": "Sector 6",    "text": "Street light broken, minor inconvenience"},
+  {"id": 13, "location": "Sector 14",   "text": "Multiple casualties after earthquake tremors, help needed"},
+  {"id": 14, "location": "Sector 17",   "text": "Child missing near flood zone, urgent search required"},
+  {"id": 15, "location": "Sector 20",   "text": "Power outage in area, no emergency situation"},
+  {"id": 16, "location": "Sector 1",    "text": "Hospital flooded, patients in danger, immediate evacuation needed"},
+  {"id": 17, "location": "Sector 13",   "text": "Pothole on road, minor issue"},
+  {"id": 18, "location": "Sector 16",   "text": "Fire in school building, students evacuated, injuries reported"},
+  {"id": 19, "location": "Sector 10",   "text": "Landslide blocking highway, vehicles trapped, urgent clearance needed"},
+  {"id": 20, "location": "Sector 18",   "text": "Garbage not collected, no emergency"}
+]
